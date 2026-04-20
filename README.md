@@ -5,8 +5,8 @@
 - **Course:** [Your Course Name]  
 - **Team Members:**  
   - Akash  
-  - [Member 2]  
-  - [Member 3]  
+  - Angel George  
+  - Sravana Nambiar  
 
 ---
 
