@@ -4,7 +4,7 @@
 - **Project Title:** Loan Default Risk Classification for Banking  
 - **Course:** [Your Course Name]  
 - **Team Members:**  
-  - Akash  
+  - Akash S
   - Angel George  
   - Sravana Nambiar  
 
