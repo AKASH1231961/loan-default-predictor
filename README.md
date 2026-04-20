@@ -128,7 +128,7 @@ We implemented and compared:
 We deployed an interactive web app using Streamlit where users can:
 - Input applicant details  
 - Predict default risk  
-- View explanation of predictions  
+- View app > https://akash1231961-loan-default-predictor-app-qbzl8j.streamlit.app/
 
 ---
 
