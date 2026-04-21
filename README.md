@@ -1,6 +1,4 @@
-<img width="1600" height="748" alt="WhatsApp Image 2026-04-20 at 7 39 27 PM" src="https://github.com/user-attachments/assets/c236ebd4-15a3-48d1-8c01-502e0baa89a1" />
-<img width="1600" height="725" alt="WhatsApp Image 2026-04-20 at 7 39 02 PM" src="https://github.com/user-attachments/assets/74025fbb-56d4-4a61-a78a-eca1a85ac5d2" />
-<img width="1600" height="725" alt="WhatsApp Image 2026-04-20 at 7 39 02 PM" src="https://github.com/user-attachments/assets/851b2725-3885-4a41-bb9b-d0dd280fa384" />
+
 # Loan Default Risk Classification for Banking
 
 ## 👥 Team Details
