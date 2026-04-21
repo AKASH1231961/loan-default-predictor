@@ -143,8 +143,7 @@ We deployed an interactive web app using Streamlit where users can:
 <img width="1600" height="725" alt="Prediction" src="https://github.com/user-attachments/assets/626ae5d3-68b8-4e31-b15a-a6783b787198" />
 
 
-### 🔹 SHAP Explanation
-![SHAP](images/shap.png)
+
 
 ---
 
