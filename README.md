@@ -2,8 +2,7 @@
 # Loan Default Risk Classification for Banking
 
 ## 👥 Team Details
-- **Project Title:** Loan Default Risk Classification for Banking  
-- **Course:** [Your Course Name]  
+- **Project Title:** Loan Default Risk Classification for Banking    
 - **Team Members:**  
   - Akash S
   - Angel George  
